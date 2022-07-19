@@ -1,0 +1,13 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+  background-color: black;
+}
+
+.globe {
+  display: grid;
+  place-items: center;
+  height: 100vh;
+  cursor: grabbing;
+}
